@@ -22,12 +22,12 @@ meu-app-java
 
 1. Clone este repositório.
 2. Navegue até o diretório do projeto.
-3. Execute o comando `mvn install` para compilar o projeto e baixar as dependências.
+3. Execute o comando " mvn install " para compilar o projeto e baixar as dependências.
 
 ## Uso
 
 Para executar a aplicação, utilize o comando:
 
-```
+
 mvn exec:java -Dexec.mainClass="com.exemplo.App"
-```
+
