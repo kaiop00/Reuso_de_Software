@@ -31,7 +31,3 @@ Para executar a aplicação, utilize o comando:
 ```
 mvn exec:java -Dexec.mainClass="com.exemplo.App"
 ```
-
-## Informações Gerais
-
-Este projeto é um exemplo básico e pode ser expandido conforme necessário. Sinta-se à vontade para modificar e adicionar novas funcionalidades.
